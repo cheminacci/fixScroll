@@ -1,1 +1,1 @@
-# fixScroll
+This script fixes scrolling and touch-clicking abilities on laptop trackpads that use the synaptic drivers. Sometimes on minimal setups the touchpad doesn't work correctly. This helps temporarily fix the problem.
